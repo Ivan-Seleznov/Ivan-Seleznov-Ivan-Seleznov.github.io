@@ -10,7 +10,6 @@ In the [video](https://www.youtube.com/watch?v=1GTHwwbHPJo) you can see some of 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1GTHwwbHPJo?si=NqbSnwLb_niKMXGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-
 ## BladeRush
 **Multiplayer movement-oriented shooter**
 Multiplayer Unreal Engine 5 true first person movement-oriented shooter. The gamefeatures a unique blend of fast paced combat and advanced movement mechanics, including sliding, wall running, grappling hook and mantling. 
