@@ -1,4 +1,5 @@
-## Projects
+## Ivan Seleznov
+## Unreal Engine C++ developer
 
 ## Singular
 **MMO FPS**
@@ -8,6 +9,7 @@ At the moment, some mechanics are ready, for example, inventory, an advanced pla
 In the [video](https://www.youtube.com/watch?v=1GTHwwbHPJo) you can see some of these mechanics, and a silent game environment using Lumen lighting.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1GTHwwbHPJo?si=NqbSnwLb_niKMXGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+***
 
 ## BladeRush
 **Multiplayer movement-oriented shooter**
@@ -15,6 +17,8 @@ Multiplayer Unreal Engine 5 true first person movement-oriented shooter. The gam
 
 In the [video]((https://www.youtube.com/watch?v=PdZ3-M2tONg)) you can see the gameplay of the game on the test map
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PdZ3-M2tONg?si=vr7POPdtBobjOoDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+***
 
 ## Ragnarok
 **Top-down 2.5d shooter**
