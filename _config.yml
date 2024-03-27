@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
-jekyll-theme-minimal:
-  skin: dark
+theme: minima
+github_username: Ivan-Seleznov
 title: Portfolio
