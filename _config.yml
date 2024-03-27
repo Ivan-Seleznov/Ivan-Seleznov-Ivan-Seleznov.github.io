@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
-minima:
+jekyll-theme-minimal:
   skin: dark
-  date_format: "%b %-d, %Y"
 title: Portfolio
