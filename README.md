@@ -7,7 +7,7 @@ MMO FPS shooter with survival elements. It is currently being developed on Unrea
 At the moment, some mechanics are ready, for example, inventory, an advanced player movement system, equipment and shooting system. 
 
 In the video you can see some of these mechanics, and a silent game environment using Lumen lighting.
-[video](https://youtu.be/1GTHwwbHPJo?si=0I-mLzxnL0a0owTD)
+<iframe width="560" height="315" src="https://youtu.be/1GTHwwbHPJo?si=0I-mLzxnL0a0owTD" frameborder="0" allowfullscreen></iframe>
 
 ## BladeRush
 **Multiplayer movement-oriented shooter**
