@@ -1,5 +1,5 @@
-## Ivan Seleznov
-## Unreal Engine C++ developer
+# Ivan Seleznov
+## Projects
 
 ## Singular
 **MMO FPS**
