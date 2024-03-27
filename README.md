@@ -1,5 +1,3 @@
-# Ivan Seleznov
-# C++ Unreal Engine Developer
 
 ## Singular
 **MMO FPS**
