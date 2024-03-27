@@ -7,18 +7,18 @@ MMO FPS shooter with survival elements. It is currently being developed on Unrea
 At the moment, some mechanics are ready, for example, inventory, an advanced player movement system, equipment and shooting system. 
 
 In the video you can see some of these mechanics, and a silent game environment using Lumen lighting.
-<iframe width="560" height="315" src="https://youtu.be/1GTHwwbHPJo?si=0I-mLzxnL0a0owTD" frameborder="0" allowfullscreen></iframe>
+[![Video](https://img.youtube.com/vi/1GTHwwbHPJo/maxresdefault.jpg)](https://www.youtube.com/watch?v=1GTHwwbHPJo)
 
 ## BladeRush
 **Multiplayer movement-oriented shooter**
 Multiplayer Unreal Engine 5 true first person movement-oriented shooter. The gamefeatures a unique blend of fast paced combat and advanced movement mechanics, including sliding, wall running, grappling hook and mantling. 
 
 In the video you can see the gameplay of the game on the test map
-[Gameplay video](https://youtu.be/PdZ3-M2tONg?si=vKvPHGtDDL14UFAP)
+[![Gameplay video](https://img.youtube.com/vi/PdZ3-M2tONg/maxresdefault.jpg)](https://www.youtube.com/watch?v=PdZ3-M2tONg)
 
 ## Ragnarok
 **Top-down 2.5d shooter**
 Single-player Unreal Engine 5 top-down 2.5d shooter with the ability to switch characters during gameplay. Each character has its own ability set with different abilities, such as dash, shooting, melee attack, and so on. The game was developed in a small team (3 people) for GGJ 2024.
 
 The game has a trailer that was made for showing on GGJ.
-[trailer](https://youtu.be/pyzRDPoQipQ?si=9lhLPvj04CdPAWlU)
+[![Trailer](https://img.youtube.com/vi/pyzRDPoQipQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=pyzRDPoQipQ)
