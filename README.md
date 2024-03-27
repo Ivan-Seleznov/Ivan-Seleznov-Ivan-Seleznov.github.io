@@ -1,4 +1,3 @@
-# Ivan Seleznov
 ## C++ Unreal Engine developer
 
 ## Singular
